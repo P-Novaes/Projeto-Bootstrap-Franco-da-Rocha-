@@ -1,0 +1,23 @@
+.navbar {
+    
+}
+
+.navbar a{
+    color: #050505;
+    padding-left: 20px;
+
+}
+
+.carousel {
+    padding: 25px;
+}
+
+.texto{
+    padding: 25px;
+}
+
+rodape {
+    background-color: #f7eded;
+    padding: 10px 1px;
+    text-align: center;
+}
