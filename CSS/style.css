@@ -10,6 +10,19 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/* =========================================
+   progress bar
+========================================= */
+
+
+.progress {
+    background-color: #21ff88;
+}
+
+.progress-bar {
+    background-color: #29b978 !important;
+    transition: width 0.1s ease;
+}
 
 /* =========================================
    NAVBAR
