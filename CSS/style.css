@@ -21,3 +21,12 @@ rodape {
     padding: 10px 1px;
     text-align: center;
 }
+
+
+.grid{
+    padding-left: 50px;
+}
+
+.col{
+    padding: 15px;
+}
